@@ -1,3 +1,3 @@
 # Michael's Engineering Journal
 
-Each day is labeled and put in its own readme. Feel free to browse around.
+Each day is labeled and put in its own file. Feel free to browse around.
